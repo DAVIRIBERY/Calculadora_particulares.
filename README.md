@@ -28,9 +28,7 @@ O projeto demonstra como a programação pode ser aplicada diretamente à rotina
 
 O programa utiliza a seguinte fórmula:
 
-\[
-\text{Percentual} = \frac{\text{Valor do orçamento} \times 100}{\text{Valor do sistema MV}}
-\]
+(A * 100) / B
 
 ## Tecnologias e conceitos utilizados
 
