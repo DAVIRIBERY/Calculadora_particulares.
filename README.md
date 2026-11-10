@@ -2,9 +2,19 @@
 
 ## Sobre o projeto
 
-Aplicação desenvolvida em Python com o objetivo de calcular a relação percentual entre o valor de um orçamento e o valor informado para o sistema MV.
+Aplicação desenvolvida em Python com o objetivo de calcular a relação percentual entre o valor de um orçamento particular e o valor informado no sistema MV Soul.
 
 O programa recebe dois valores financeiros digitados pelo usuário e utiliza uma função matemática para realizar o cálculo percentual, apresentando o resultado com duas casas decimais.
+
+## Motivação e aplicação prática
+
+O desenvolvimento deste script surgiu da necessidade de otimizar uma atividade operacional do faturamento hospitalar.
+
+Anteriormente, o cálculo percentual e o posterior ajuste dos valores no sistema MV Soul demandavam tempo devido à realização manual das operações matemáticas.
+
+Com a criação desta ferramenta, consegui automatizar o cálculo, reduzir o tempo necessário para executar essa atividade e melhorar significativamente minha produtividade.
+
+O projeto demonstra como a programação pode ser aplicada diretamente à rotina profissional para solucionar problemas reais, automatizar tarefas repetitivas e otimizar processos.
 
 ## Funcionalidades
 
@@ -18,7 +28,9 @@ O programa recebe dois valores financeiros digitados pelo usuário e utiliza uma
 
 O programa utiliza a seguinte fórmula:
 
-Percentual = (Valor do orçamento × 100) / Valor do sistema MV
+\[
+\text{Percentual} = \frac{\text{Valor do orçamento} \times 100}{\text{Valor do sistema MV}}
+\]
 
 ## Tecnologias e conceitos utilizados
 
@@ -30,4 +42,18 @@ Percentual = (Valor do orçamento × 100) / Valor do sistema MV
 - **Operadores matemáticos:** multiplicação e divisão.
 - **`while True`:** estrutura de repetição contínua.
 - **F-strings:** formatação e apresentação dos resultados.
-- **`:.2f`:** exibição
+- **`:.2f`:** exibição do resultado com duas casas decimais.
+
+## Objetivo do desenvolvimento
+
+O projeto tem como finalidade aplicar conhecimentos de programação Python na resolução de uma necessidade real do faturamento hospitalar.
+
+Além do aprendizado técnico, a aplicação representa uma experiência prática de automação de processos, demonstrando como pequenas ferramentas desenvolvidas sob medida podem gerar ganhos de produtividade no ambiente profissional.
+
+---
+
+**Status:** Em desenvolvimento.
+
+**Linguagem:** Python.
+
+**Aplicação:** Otimização de cálculos percentuais no faturamento hospitalar.
