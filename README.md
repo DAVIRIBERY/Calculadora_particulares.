@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Aplicação desenvolvida em Python com o objetivo de calcular a relação percentual entre o valor de um orçamento particular e o valor informado no sistema MV Soul.
+Aplicação desenvolvida em Python com o objetivo de calcular a relação percentual entre o valor de um orçamento particular e o valor informado no sistema.
 
 O programa recebe dois valores financeiros digitados pelo usuário e utiliza uma função matemática para realizar o cálculo percentual, apresentando o resultado com duas casas decimais.
 
@@ -10,7 +10,7 @@ O programa recebe dois valores financeiros digitados pelo usuário e utiliza uma
 
 O desenvolvimento deste script surgiu da necessidade de otimizar uma atividade operacional do faturamento hospitalar.
 
-Anteriormente, o cálculo percentual e o posterior ajuste dos valores no sistema MV Soul demandavam tempo devido à realização manual das operações matemáticas.
+Anteriormente, o cálculo percentual e o posterior ajuste dos valores no sistema demandavam tempo devido à realização manual das operações matemáticas.
 
 Com a criação desta ferramenta, consegui automatizar o cálculo, reduzir o tempo necessário para executar essa atividade e melhorar significativamente minha produtividade.
 
