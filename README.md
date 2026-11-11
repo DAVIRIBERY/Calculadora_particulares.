@@ -19,7 +19,7 @@ O projeto demonstra como a programação pode ser aplicada diretamente à rotina
 ## Funcionalidades
 
 - **Entrada do orçamento:** solicita ao usuário o valor total do orçamento.
-- **Entrada do sistema MV:** recebe o valor correspondente ao sistema MV.
+- **Entrada do sistema :** recebe o valor correspondente ao sistema.
 - **Cálculo percentual:** realiza a operação matemática para identificar a relação percentual entre os dois valores.
 - **Exibição do resultado:** apresenta o percentual calculado com duas casas decimais.
 - **Execução contínua:** utiliza uma estrutura de repetição `while True`, permitindo realizar novos cálculos sem reiniciar o programa.
